@@ -1,0 +1,1070 @@
+[
+    {
+        "horario_partida": "06:30",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:32",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:34",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:36",
+        "ponto_saida": "Drogaria Compro Certo",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:38",
+        "ponto_saida": "DER",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:41",
+        "ponto_saida": "Posto Zema",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:42",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:45",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:47",
+        "ponto_saida": "Escola Letícia Chaves",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:49",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:51",
+        "ponto_saida": "Av 15 de Novembro Catulina",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:53",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:55",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:58",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "06:59",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "07:00",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:04",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "07:05",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:07",
+        "ponto_saida": "Av 15 de Novembro (Pé de manga)",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:09",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:12",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:14",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:19",
+        "ponto_saida": "Espaço Cultural",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:22",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:24",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:26",
+        "ponto_saida": "Madeira do Tonhão",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:28",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "07:55",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "07:59",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:00",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:02",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:04",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:04",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:06",
+        "ponto_saida": "Drogaria Compro Certo",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:08",
+        "ponto_saida": "DER",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:11",
+        "ponto_saida": "Posto Zema",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:13",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:16",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:19",
+        "ponto_saida": "Escola Letícia Chaves",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:21",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:23",
+        "ponto_saida": "Av 15 de Novembro Catulina",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:25",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:30",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:35",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:39",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:44",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "08:55",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "09:00",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "09:02",
+        "ponto_saida": "Av 15 de Novembro (Pé de manga)",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "09:04",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "09:07",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "09:09",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "09:11",
+        "ponto_saida": "Espaço Cultural",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "09:14",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "09:16",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "09:18",
+        "ponto_saida": "Madeira do Tonhão",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "09:20",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "10:30",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "10:33",
+        "ponto_saida": "Escola Letícia Chaves",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "10:35",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "10:35",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "10:37",
+        "ponto_saida": "Av 15 de Novembro Catulina",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "10:39",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "10:39",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "10:44",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "10:44",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "10:45",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "10:50",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "10:52",
+        "ponto_saida": "Av 15 de Novembro (Pé de manga)",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "10:54",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "10:57",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "10:59",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "11:02",
+        "ponto_saida": "Espaço Cultural",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "11:04",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "11:06",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "11:08",
+        "ponto_saida": "Madeira do Tonhão",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "11:10",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "11:40",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "11:45",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "11:49",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "12:20",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:22",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:24",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:26",
+        "ponto_saida": "Drogaria Compro Certo",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:28",
+        "ponto_saida": "DER",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:31",
+        "ponto_saida": "Posto Zema",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:33",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:35",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:37",
+        "ponto_saida": "Escola Letícia Chaves",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:39",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:41",
+        "ponto_saida": "Av 15 de Novembro Catulina",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:43",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:45",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:48",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:49",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "12:54",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "13:00",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "13:05",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "13:07",
+        "ponto_saida": "Av 15 de Novembro (Pé de manga)",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "13:09",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "13:12",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "13:14",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "13:17",
+        "ponto_saida": "Espaço Cultural",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "13:19",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "13:21",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "13:23",
+        "ponto_saida": "Madeira do Tonhão",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "13:25",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "14:10",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:12",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:14",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:16",
+        "ponto_saida": "Drogaria Compro Certo",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:18",
+        "ponto_saida": "DER",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:21",
+        "ponto_saida": "Posto Zema",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:23",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:25",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:27",
+        "ponto_saida": "Escola Letícia Chaves",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:29",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:31",
+        "ponto_saida": "Av 15 de Novembro Catulina",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:33",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "14:38",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "15:00",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:05",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:07",
+        "ponto_saida": "Av 15 de Novembro (Pé de manga)",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:09",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:12",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:14",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:17",
+        "ponto_saida": "Espaço Cultural",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:19",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:21",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:23",
+        "ponto_saida": "Madeira do Tonhão",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:25",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "15:50",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "15:55",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "15:59",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "17:00",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "17:05",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "17:09",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "17:10",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:15",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:17",
+        "ponto_saida": "Av 15 de Novembro (Pé de manga)",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:19",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:22",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:24",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:27",
+        "ponto_saida": "Espaço Cultural",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:29",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:31",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:33",
+        "ponto_saida": "Madeira do Tonhão",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:35",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "17:40",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:40",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:42",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:44",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:44",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:46",
+        "ponto_saida": "Drogaria Compro Certo",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:48",
+        "ponto_saida": "DER",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:49",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:50",
+        "ponto_saida": "Posto Zema",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:52",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:55",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:57",
+        "ponto_saida": "Escola Letícia Chaves",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "17:59",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "18:01",
+        "ponto_saida": "Av 15 de Novembro Catulina",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "18:03",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "18:08",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "Araras"
+    },
+    {
+        "horario_partida": "18:20",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "18:25",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "18:29",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "18:40",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "18:51",
+        "ponto_saida": "Praça Rodoviária",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "18:53",
+        "ponto_saida": "Praça 3 de Outubro",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "18:56",
+        "ponto_saida": "Espaço Cultural",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "18:58",
+        "ponto_saida": "Posto Carmelitano",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "19:00",
+        "ponto_saida": "Praça Nª Sra de Fátima",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "19:02",
+        "ponto_saida": "Madeira do Tonhão",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "19:04",
+        "ponto_saida": "Sesi",
+        "tipo_onibus": "Municipal",
+        "destino": "SESI"
+    },
+    {
+        "horario_partida": "19:20",
+        "ponto_saida": "Araras",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "19:25",
+        "ponto_saida": "Cidade Jardim",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    },
+    {
+        "horario_partida": "19:29",
+        "ponto_saida": "Boa Vista",
+        "tipo_onibus": "Intercampi",
+        "destino": "Boa Vista"
+    }
+]

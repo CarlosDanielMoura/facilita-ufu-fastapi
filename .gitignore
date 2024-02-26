@@ -1,0 +1,13 @@
+# Arquivos de compilação Python
+*.pyc
+*.pyo
+__pycache__
+.idea/
+# Diretórios de ambiente virtual
+venv/
+env/
+.env/
+myenv/
+# Arquivos de dependências gerados
+pip-log.txt
+pip-delete-this-directory.txt
