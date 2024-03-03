@@ -2,7 +2,7 @@ from sqlalchemy import TIMESTAMP, Column, Integer, String, text
 from app.database.connection import Base
 
 class Edital(Base):
-    __tablename__ = "edital.py"
+    __tablename__ = "edital"
     cod_edital = Column(Integer, primary_key=True, nullable=False)
     org_resp = Column(String, nullable=False)
     titulo = Column(String, nullable=False)
