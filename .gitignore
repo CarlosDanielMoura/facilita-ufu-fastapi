@@ -4,10 +4,15 @@
 __pycache__
 .idea/
 # Diretórios de ambiente virtual
-venv/
-env/
-.env/
 myenv/
+.env
 # Arquivos de dependências gerados
 pip-log.txt
 pip-delete-this-directory.txt
+lib
+scripts
+
+# Arquivos de configuração de ambiente virtual
+pyvenv.cfg
+
+include/
