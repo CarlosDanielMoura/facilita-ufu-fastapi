@@ -14,11 +14,15 @@ Base.metadata.create_all(engine)
 app = FastAPI()
 
 
-@app.on_event("startup")
 def startup_event():
-    # Isso criará as tabelas, se elas ainda não existirem.
     Base.metadata.create_all(bind=engine)
 
+app.add_event_handler("startup", startup_event)
+
+
+@app.get('/')
+def index():
+ return "Hello, World!"
 
 @app.get("/horario_onibus")
 def get_horario_onibus_all(db: Session = Depends(get_db)):
