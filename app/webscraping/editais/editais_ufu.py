@@ -121,27 +121,8 @@ for pagina in range(1, 59):
         break
 
 
-
-# df_remove = df.loc[(df['Resultado'] == 'Publicado')]
-
-# df = df.drop(df_remove.index)
-
-# df.drop(columns=['Resultado'], axis=1)
-
-# df = df.reset_index(drop='true')
-
-# df.to_csv('edital.csv', index=False, encoding='utf-8-sig')
-# df.to_excel("editais.xlsx")
-
-# df.to_json('editais.json', orient='records', indent=4)
-# with open('editais.json', 'r', encoding='utf-8') as file:
-#     dados_json = json.load(file)
-
-
-
 test = pd.DataFrame(dados)
-# print(type(test))
-# print(test)
+
 
 test_remove = test.loc[(df['Resultado'] == 'Publicado')]
 
@@ -174,17 +155,6 @@ conn.autocommit = True
 # Creating a cursor object
 cursor = conn.cursor()
   
-# cursor.execute ('''CREATE TABLE IF NOT EXISTS EDITAL
-#                     (
-#                         COD_EDITAL SERIAL,
-#                         ORG_RESP character text COLLATE pg_catalog."default" NOT NULL,
-#                         TITULO character text COLLATE pg_catalog."default" NOT NULL,
-#                         LINK character varying(100) COLLATE pg_catalog."default" NOT NULL,
-#                         TIPO character varying(50) COLLATE pg_catalog."default" NOT NULL,
-#                         DT_PUBLICACAO character varying(50) COLLATE pg_catalog."default" NOT NULL,
-#                         CREATED_AT timestamp without time zone DEFAULT CURRENT_TIMESTAMP,
-#                         CONSTRAINT edital_pkey PRIMARY KEY (COD_EDITAL)
-#                     )''')
 # query to import data from given csv
 with open('edital_ufu.csv', 'r', encoding='utf-8') as f:
     cursor.copy_expert(sql="COPY EDITAL(ORG_RESP,TITULO, LINK, TIPO, DT_PUBLICACAO) FROM STDIN WITH CSV HEADER", file=f)
