@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -5,6 +6,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from sqlalchemy import create_engine
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Configuração do driver do Selenium
 driver = webdriver.Chrome()  # Certifique-se de ter o ChromeDriver instalado e no PATH
@@ -61,7 +65,8 @@ driver.quit()
 df = pd.DataFrame(dados)
 
 # Conectar-se ao banco de dados PostgreSQL (substitua 'user', 'password', 'host' e 'database' pelas suas credenciais)
-engine = create_engine("postgresql://postgres:root@localhost/facilitaufu")
+DATABASE_URL = os.getenv("DATABASE_URL")
+engine = create_engine(DATABASE_URL)
 
 # Escrever o DataFrame para o banco de dados PostgreSQL
 df.to_sql("horario_onibus", engine, if_exists="append", index=False)
